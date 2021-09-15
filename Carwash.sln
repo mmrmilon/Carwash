@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carwash.Core", "Carwash.Cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carwash.Infrastructure", "Carwash.Infrastructure\Carwash.Infrastructure.csproj", "{5CF80455-BF50-415A-8D01-536E2D31D53B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carwash.WebApp", "Carwash.WebApp\Carwash.WebApp.csproj", "{87BABB8B-F8CB-41C6-9DA3-0091928518C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5CF80455-BF50-415A-8D01-536E2D31D53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF80455-BF50-415A-8D01-536E2D31D53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF80455-BF50-415A-8D01-536E2D31D53B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BABB8B-F8CB-41C6-9DA3-0091928518C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BABB8B-F8CB-41C6-9DA3-0091928518C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BABB8B-F8CB-41C6-9DA3-0091928518C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BABB8B-F8CB-41C6-9DA3-0091928518C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

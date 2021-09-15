@@ -15,5 +15,7 @@ namespace Carwash.Core.Entities
         public string About { get; set; }
 
         public bool IsActive { get; set; }
+
+        public DateTime CreatedOn { get; set; }
     }
 }
